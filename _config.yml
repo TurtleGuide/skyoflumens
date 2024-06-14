@@ -3,7 +3,7 @@ title: skyoflumens
 email: ""
 description: "Photo Journal"
 url: "https://www.skyoflumens.site"
-baseurl: "/skyoflumens"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://www.skyoflumens.site/repositoryname/gallery/" 
-  - JOURNAL: "https://www.skyoflumens.site/repositoryname/journal/"
-  - ABOUT: "https://www.skyoflumens.site/repositoryname/about/"
+  - GALLERY: "https://www.skyoflumens.site/gallery/" 
+  - JOURNAL: "https://www.skyoflumens.site/journal/"
+  - ABOUT: "https://www.skyoflumens.site/about/"
 
 # All translation keys
 translations:
