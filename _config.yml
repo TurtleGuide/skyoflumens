@@ -1,9 +1,9 @@
 # Site settings
-title: PHOTORAMA
+title: skyoflumens
 email: ""
 description: "Photo Journal"
-url: "https://sunbliss.github.io"
-baseurl: "/photorama"
+url: "http://www.skyoflumens.site/"
+baseurl: "/skyoflumens"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -15,7 +15,7 @@ share: true
 
 # Owner/author information
 owner:
-  name:   photorama
+  name:   skyoflumens
   avatar: avatar.png
   favicon: favicon.ico
   info: photography website template
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://sunbliss.github.io/photorama/gallery/"  
-  - JOURNAL: "https://sunbliss.github.io/photorama/journal/"
-  - ABOUT: "https://sunbliss.github.io/photorama/about/"
+  - GALLERY: "http://www.skyoflumens.site//skyoflumens/gallery/"  
+  - JOURNAL: "http://www.skyoflumens.site//skyoflumens/journal/"
+  - ABOUT: "http://www.skyoflumens.site//skyoflumens/about/"
 
 # All translation keys
 translations:
