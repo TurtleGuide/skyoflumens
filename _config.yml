@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://turtleguide.github.io/skyoflumens/gallery/"  
-  - JOURNAL: "https://turtleguide.github.io/skyoflumens/journal/"
-  - ABOUT: "https://turtleguide.github.io/skyoflumens/about/"
+  - GALLERY: "https://www.skyoflumens.site/skyoflumens/gallery/"  
+  - JOURNAL: "https://www.skyoflumens.site/skyoflumens/journal/"
+  - ABOUT: "https://www.skyoflumens.site/skyoflumens/about/"
 
 # All translation keys
 translations:
