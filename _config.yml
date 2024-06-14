@@ -3,7 +3,7 @@ title: skyoflumens
 email: ""
 description: "Photo Journal"
 url: "https://turtleguide.github.io/"
-baseurl: "/skyoflumens"
+baseurl: "/"
 facebook_username: ""
 twitter_username: ""
 instagram_username: ""
@@ -33,9 +33,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://turtleguide.github.io/skyoflumens/gallery/"  
-  - JOURNAL: "https://turtleguide.github.io/skyoflumens/journal/"
-  - ABOUT: "https://turtleguide.github.io/skyoflumens/about/"
+  - GALLERY: "https://turtleguide.github.io/gallery/"  
+  - JOURNAL: "https://turtleguide.github.io/journal/"
+  - ABOUT: "https://turtleguide.github.io/about/"
 
 # All translation keys
 translations:
