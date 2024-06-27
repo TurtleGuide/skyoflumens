@@ -4,12 +4,11 @@ title: "STORY"
 description: "Our Minecraft Journey"
 active: story
 header-img: "img/story-bg.jpg"
----
 images:
-- image_path: /story/albums/alb01.jpg
-  story-folder: /story/story01/
-  story-name: Server Launch
-  story-date: July 2023
+ - image_path: /story/albums/alb01.jpg
+   story-folder: /story/story01/
+   story-name: Server Launch
+   story-date: July 2023
 <!-- - image_path: /story/albums/alb02.jpg
   story-folder: /story/story02/
   story-name: First Community Build
@@ -67,14 +66,14 @@ images:
                          <figure class="effect-selena">
 					<header class='gallery-icon'>
 		       
-<a href="{{ site.url }}{{ site.baseurl }}{{ image.gallery-folder }}">
+<a href="{{ site.url }}{{ site.baseurl }}{{ image.story-folder }}">
 <img src="{{ site.url }}{{ site.baseurl }}{{ image.image_path }}"></a>
 
 					</header>	
 					<figcaption class='gallery-caption'>
 						<div class="entry-summary">
-							<h3>{{image.gallery-name}}</h3>
-							<p>{{image.gallery-date}}</p>
+							<h3>{{image.story-name}}</h3>
+							<p>{{image.story-date}}</p>
 						</div>
 					</figcaption>
                        </figure>
