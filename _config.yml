@@ -21,7 +21,7 @@ owner:
   name:   skyoflumens
   avatar: avatar.png
   favicon: favicon.ico
-  info: photography website template
+  info: Minecraft server website
 
 # Settings for comments helper
 # Set 'provider' to the comment provider you want to use. (i.e.  Disqus, Intense Debate, livefyre, or Facebook Comments)
@@ -36,9 +36,9 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://www.skyoflumens.site/gallery/" 
-  - JOURNAL: "https://www.skyoflumens.site/journal/"
-  - ABOUT: "https://www.skyoflumens.site/about/"
+  - STORY: "https://www.skyoflumens.site/story/" 
+  - GAME INFO: "https://www.skyoflumens.site/game-info/"
+  - NOTICE: "https://www.skyoflumens.site/notice/"
 
 # All translation keys
 translations:
