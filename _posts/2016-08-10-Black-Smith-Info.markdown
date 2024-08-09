@@ -5,7 +5,7 @@ subtitle: "생활직업"
 active: "journal"
 image:
   feature: "Blacksmith.jpg"
-date: "2024-08-10"
+date: "2016-08-10"
 header-img: "skyoflumens/img/postcover/Blacksmith.jpg"
 tags: []
 categories: []
