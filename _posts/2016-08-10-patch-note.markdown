@@ -4,9 +4,9 @@ title: "2024-08-10 패치노트"
 subtitle: "패치노트"
 active: "journal"
 image:
-  feature: "Blacksmith.jpg"
+  feature: "minecraft-banner.jpg"
 date: "2016-08-10"
-header-img: "img/postcover/minecraft-banner"
+header-img: "img/postcover/minecraft-banner.jpg"
 tags: []
 categories: []
 comments: false
