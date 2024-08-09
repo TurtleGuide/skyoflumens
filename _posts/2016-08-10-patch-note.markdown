@@ -4,7 +4,7 @@ title: "2024-08-10 패치노트"
 subtitle: "패치노트"
 active: "journal"
 image:
-  feature: "minecraft-landscape.jpeg"
+  feature: "minecraft-dreamscape.jpeg"
 date: "2016-08-10"
 header-img: "img/postcover/minecraft-banner.jpg"
 tags: []
