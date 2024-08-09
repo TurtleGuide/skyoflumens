@@ -6,7 +6,7 @@ active: "journal"
 image:
   feature: "minecraft-dreamscape.jpeg"
 date: "2016-08-10"
-header-img: "img/postcover/minecraft-banner.jpg"
+header-img: "img/postcover/pixelcut-export.jpeg"
 tags: []
 categories: []
 comments: false
