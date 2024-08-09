@@ -2,10 +2,10 @@
 layout:     post
 title:      "대장장이 하는 방법!"
 subtitle:   "Lewis Carroll"
-active: journal
+active: "journal"
 image:
   feature: "Blacksmith.jpg"
-date:       2024-08-10
+date: "2024-08-10"
 header-img: "img/postcover/Blacksmith.jpg"
 tags: [tag01, tag02]
 categories: [cat01, cat02]
