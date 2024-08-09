@@ -1,7 +1,7 @@
 ---
-layout:     post
-title:      "대장장이 하는 방법!"
-subtitle:   "Lewis Carroll"
+layout: "post"
+title: "대장장이 하는 방법!"
+subtitle: "생활직업"
 active: "journal"
 image:
   feature: "Blacksmith.jpg"
