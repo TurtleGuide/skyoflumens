@@ -12,42 +12,49 @@ categories: [cat01, cat02]
 comments: false
 ---
 
-안녕하세요! 오늘은 우리 마인크래프트 서버의 생활직업 중 하나인 대장장이 직업에 대해 소개해드리려고 합니다. 대장장이는 광석을 녹여 다양한 무기를 만들어내는 매력적인 직업입니다. 아래에서 대장장이가 되는 방법을 단계별로 알려드리겠습니다!
+<p>I would like to thank <a href="http://designyourownblog.com/about-dyob/">Marianne</a>, owner of <a href="http://designyourownblog.com/">DESIGN YOUR OWN BLOG</a> who gave me permission to link to her post where she is talking about blog image performance.</p>
 
-## 1. 재료 준비하기
+> Is blog image performance necessary?
+> 
+> Consider this:
+> 
+> Your users don’t want to wait more than 3 seconds for your page to load.
+> 
+> Google pays attention to your website speed and ranks it accordingly.
+> 
+> So I’d say yes, it’s very necessary.
+> 
+>   – Marianne
 
-![재료 준비](img/postcover/1.gif)
+<p>If you care about your readers <a href="http://designyourownblog.com/blog-image-performance/">this</a> post is a <b>MUST READ</b>.</p>
 
-먼저, 재료 쟁반에 레시피에 맞는 광석 재료들을 넣습니다. 레시피는 직접 찾아야 하는 재미있는 과정이니 열심히 탐구해보세요!
+> There are 3 steps (4 for JPEGs) we should take to optimize our images:
+> 
+> Always resize the image to the largest size it will appear.
+> 
+> Further reduce JPEG file size with these tricks.
+> 
+> Reduce quality on save.
+> 
+> Run it through a lossless image compression tool.
+> 
+>   – Marianne
+ 
+<p>This Jekyll template was crafted in order to be used by photobloggers. If the photos you upload are not optimized, the page loading time will increase significantly! </p>
 
-## 2. 화로에 불 붙이기
+> DO NOT upload an image at its full size, such as 2500 x 3500, and then resize it in the settings after you’ve uploaded it to your blog!
+> 
+>   – Marianne
 
-![화로에 불 붙이기](img/postcover/2.gif)
+<p> So, dig in her informative post and learn how you can have a fast loading photography website!</p>
 
-대장장이 화로의 대각선 방향으로 참나무를 넣고 라이터로 불을 붙입니다. 화로에 불이 활활 타오르는 모습을 확인하세요.
+<a href="http://designyourownblog.com/blog-image-performance/"><b>"THE BIGGEST MISTAKE YOU’RE PROBABLY MAKING WITH YOUR BLOG IMAGES + CHEAT SHEET"</b></a>
 
-## 3. 재료 녹이기
+Thank you Marianne! :)
 
-![재료 녹이기](img/postcover/3.gif)
+<br>
+<br>
 
-집게로 재료가 담긴 쟁반을 들어 화로에 넣습니다. 재료들이 서서히 녹는 것을 기다립니다.
-
-## 4. 녹인 재료 옮기기
-
-![녹인 재료 옮기기](img/postcover/4.gif)
-
-재료가 완전히 녹았다면, 쟁반을 꺼내 모루 위에 올려놓습니다. 이제 본격적인 대장장이 작업을 시작할 준비가 되었습니다!
-
-## 5. 무기 형태 만들기
-
-![무기 형태 만들기](img/postcover/5.gif)
-
-주형을 들고 녹인 쟁반에 우클릭을 합니다. 그러면 대장장이 망치로 두드리는 이벤트가 시작됩니다. 타이밍에 맞춰 정확하게 두드려주세요.
-
-## 6. 완성 및 식히기
-
-![완성 및 식히기](img/postcover/6.gif)
-
-모든 두드리기 작업이 끝나면, 빠르게 집게로 무기를 집어 물에 담가 식힙니다. 이렇게 하면 여러분만의 무기가 완성됩니다!
+<a href="http://designyourownblog.com/wp-content/uploads/2015/10/biggest-blog-mistake-image-performance-2.jpg">Featured Image Source</a>
 
 
