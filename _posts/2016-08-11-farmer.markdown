@@ -7,7 +7,7 @@ active: "journal"
 image:
   feature: "minecraft-style-farm.jpeg"
 date: "2016-08-10"
-header-img: "img/postcover/minecraft-style-farm"
+header-img: "img/postcover/minecraft-style-farm.jpeg"
 tags: []
 categories: []
 comments: false
