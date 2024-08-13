@@ -4,9 +4,9 @@ title: "펫 종류 및 뽑기 확률표"
 subtitle: "즐거운 펫 뽑기!!"
 active: "journal"
 image:
-  feature: "minecraft-style-farm.jpeg"
+  feature: "pixel-art-depiction.jpeg"
 date: "2016-08-13"
-header-img: "img/postcover/minecraft-style-farm.jpeg"
+header-img: "img/postcover/twilight-in-a-minecraft-style-pet.jpeg"
 tags: []
 categories: []
 comments: false
@@ -34,48 +34,48 @@ comments: false
 ![고양이 펫들](https://i.imgur.com/XlJAKvn.gif "Minecraft 고양이 펫들")
 
 <details>
-  <summary>1. 봄베이 고양이</summary>
+  <summary>1. 봄베이 고양이(미리보기 클릭)</summary>
   <img src="/img/postcover/pets/cat_1.png" alt="봄베이 고양이">
 </details>
 
 <details>
-  <summary>2. 유러피안 고양이</summary>
+  <summary>2. 유러피안 고양이(미리보기 클릭)</summary>
   <img src="/img/postcover/pets/cat_2.png" alt="유러피안 고양이">
 </details>
 
 <details>
-  <summary>3. 타락한 고양이</summary>
+  <summary>3. 타락한 고양이(미리보기 클릭)</summary>
   <img src="/img/postcover/pets/cat_3.png" alt="타락한 고양이">
 </details>
 
 <details>
-  <summary>4. 메인쿤 고양이</summary>
+  <summary>4. 메인쿤 고양이(미리보기 클릭)</summary>
   <img src="/img/postcover/pets/cat_5.png" alt="메인쿤 고양이">
 </details>
 
 <details>
-  <summary>5. 먼치킨 고양이</summary>
+  <summary>5. 먼치킨 고양이(미리보기 클릭)</summary>
   <img src="/img/postcover/pets/cat_6.png" alt="먼치킨 고양이">
 </details>
 
 <details>
-  <summary>6. 스코티시 폴드 고양이</summary>
+  <summary>6. 스코티시 폴드 고양이(미리보기 클릭)</summary>
   <img src="/img/postcover/pets/cat_7.png" alt="스코티시 폴드 고양이">
 </details>
 
 <details>
-  <summary>7. 샴 고양이</summary>
+  <summary>7. 샴 고양이(미리보기 클릭)</summary>
   <img src="/img/postcover/pets/cat_8.png" alt="샴 고양이">
 </details>
 
 <details>
-  <summary>8. 마녀 고양이 (할로윈 특별 펫)</summary>
+  <summary>8. 마녀 고양이 (할로윈 특별 펫)(미리보기 클릭)</summary>
   <img src="/img/postcover/pets/cat_4.png" alt="마녀 고양이">
 </details>
 
 <details>
-  <summary>1. 코기</summary>
-  <img src="/img/postcover/pets/dog_1.png" alt="코기">
+  <summary>1. 코기(미리보기 클릭)</summary>
+  <img src="/img/postcover/pets/pet_2.png" alt="코기">
 </details>
 
 ### 기타
