@@ -83,7 +83,7 @@ comments: false
 
 <details>
   <summary>1. 코기(미리보기 클릭)</summary>
-  <img src="/img/postcover/pets/pet_2.png" alt="코기">
+  <img src="/img/postcover/pets/pet_2.gif" alt="코기">
 </details>
 
 ### 기타
