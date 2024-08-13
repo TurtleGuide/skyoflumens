@@ -31,7 +31,7 @@ comments: false
 ## 새로운 펫 도입!
 
 ### 고양이
-![고양이 펫들](/img/postcover/pets/pet_1.gif)
+![고양이 펫들](https://i.imgur.com/XlJAKvn.gif "Minecraft 고양이 펫들")
 
 <details>
   <summary>1. 봄베이 고양이</summary>
