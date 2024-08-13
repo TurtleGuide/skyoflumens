@@ -1,0 +1,148 @@
+---
+layout: "post"
+title: "펫 종류 및 뽑기 확률표"
+subtitle: "즐거운 펫 뽑기!!"
+active: "journal"
+image:
+  feature: "minecraft-style-farm.jpeg"
+date: "2016-08-13"
+header-img: "img/postcover/minecraft-style-farm.jpeg"
+tags: []
+categories: []
+comments: false
+---
+
+안녕하세요, 거북이놀이터 유저 여러분!
+오늘은 펫 뽑기 시스템에 대해 상세히 알아보겠습니다.
+
+## 펫 뽑기 상자
+
+- 1회: 10,000원
+- 10회: 100,000원 (추가 펫 뽑기 상자 +1)
+
+1. 펫 상자 뽑기권 상자를 열면 다음 아이템을 얻습니다:
+![펫뽑기상자](/img/postcover/pets/box_1.png)
+   - 펫 교환 코인
+   - 펫 카드 뽑기 기회 상자
+2. 펫 카드 뽑기 기회 상자:
+![펫뽑기상자](/img/postcover/pets/box_2.png)
+   - 다양한 펫을 얻을 기회!
+
+## 새로운 펫 도입!
+
+### 고양이
+![고양이 펫들](/img/postcover/pets/pet_1.gif)
+
+<details>
+  <summary>1. 봄베이 고양이</summary>
+  <img src="/img/postcover/pets/cat_1.png" alt="봄베이 고양이">
+</details>
+
+<details>
+  <summary>2. 유러피안 고양이</summary>
+  <img src="/img/postcover/pets/cat_2.png" alt="유러피안 고양이">
+</details>
+
+<details>
+  <summary>3. 타락한 고양이</summary>
+  <img src="/img/postcover/pets/cat_3.png" alt="타락한 고양이">
+</details>
+
+<details>
+  <summary>4. 메인쿤 고양이</summary>
+  <img src="/img/postcover/pets/cat_5.png" alt="메인쿤 고양이">
+</details>
+
+<details>
+  <summary>5. 먼치킨 고양이</summary>
+  <img src="/img/postcover/pets/cat_6.png" alt="먼치킨 고양이">
+</details>
+
+<details>
+  <summary>6. 스코티시 폴드 고양이</summary>
+  <img src="/img/postcover/pets/cat_7.png" alt="스코티시 폴드 고양이">
+</details>
+
+<details>
+  <summary>7. 샴 고양이</summary>
+  <img src="/img/postcover/pets/cat_8.png" alt="샴 고양이">
+</details>
+
+<details>
+  <summary>8. 마녀 고양이 (할로윈 특별 펫)</summary>
+  <img src="/img/postcover/pets/cat_4.png" alt="마녀 고양이">
+</details>
+
+<details>
+  <summary>1. 코기</summary>
+  <img src="/img/postcover/pets/dog_1.png" alt="코기">
+</details>
+
+### 기타
+1. 으스스한 치비 마녀
+2. 치비 페가수스
+3. 월-E
+4. 치비 여우
+5. 얼음 곰
+
+## 확률표
+
+| 희귀도 | 아이템 | 개별 확률 | 총 확률 |
+|--------|--------|-----------|---------|
+| 일반 (Common) | 토끼 | 6.5% | 65% |
+| | 푹신한 양 | 6.5% | |
+| | 털털한 박쥐 | 6.5% | |
+| | 행복한 소 | 6.5% | |
+| | 킹 젤리 | 6.5% | |
+| | 광부 두더지 | 6.5% | |
+| | 졸린 개구리 | 6.5% | |
+| | 엔트 | 6.5% | |
+| | 슬라임 | 6.5% | |
+| | 펭귄 | 6.5% | |
+| 레어 (Rare) | 언데드 엔트 | 2.375% | 19% |
+| | 천사 슬라임 | 2.375% | |
+| | 얼음 펭귄 | 2.375% | |
+| | 전사 | 2.375% | |
+| | 다크 나이트 | 2.375% | |
+| | 암살자 | 2.375% | |
+| | 무술가 | 2.375% | |
+| | 닌자 사무라이 | 2.375% | |
+| 에픽 (Epic) | 엘더 엔트 | 1.25% | 10% |
+| | 태양 & 달 | 1.25% | |
+| | 물 & 불 | 1.25% | |
+| | 음 & 양 | 1.25% | |
+| | 대천사 슬라임 | 1.25% | |
+| | 얼음 황제 펭귄 | 1.25% | |
+| | 사신 | 1.25% | |
+| | 그 게임 개 | 1.25% | |
+| 레전드 (Legend) | 네더 & 엔더 | 0.454% | 5% |
+| | 성기사 | 0.454% | |
+| | 드래곤 워리어 | 0.454% | |
+| | 파란 요정 | 0.454% | |
+| | 녹색 요정 | 0.454% | |
+| | 핑크 요정 | 0.454% | |
+| | 보라색 요정 | 0.454% | |
+| | 빨간색 요정 | 0.454% | |
+| | 노란색 요정 | 0.454% | |
+| | 월-E | 0.454% | |
+| | 얼음 곰 | 0.454% | |
+| 스페셜 (Special) | 고양이1 | 0.1% | 1% |
+| | 고양이2 | 0.1% | |
+| | 고양이3 | 0.1% | |
+| | 고양이4 | 0.1% | |
+| | 고양이5 | 0.1% | |
+| | 고양이6 | 0.1% | |
+| | 고양이7 | 0.1% | |
+| | 코기 | 0.1% | |
+| | 여우 | 0.1% | |
+| | 페가수스 | 0.1% | |
+| | 마녀 고양이 (할로윈 특별 펫) | 0.1% | |
+
+## 펫 코인 교환
+- 코인 7,000개: 스페셜 펫 교환
+- 코인 10,000개: 마녀 고양이 (할로윈 특별 펫) 교환
+
+행운이 함께하길 바랍니다, 유저 여러분!
+귀여운 펫과 함께 즐거운 시간 보내세요!
+
+거북이 놀이터 운영자 드림
