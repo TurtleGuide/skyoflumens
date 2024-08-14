@@ -6,7 +6,7 @@ active: "journal"
 image:
   feature: "minecraft-inspired-fishing-scenery.jpeg"
 date: "2016-08-14"
-header-img: "img/postcover/fishing/minecraft-inspired-digital-painting"
+header-img: "img/postcover/minecraft-inspired-digital-painting.gif"
 tags: []
 categories: []
 comments: false
@@ -18,15 +18,15 @@ comments: false
 ## 낚시 설명
 
 1. 미끼 및 루어 장착하기
-   ![미끼 및 루어 장착](/img/postcover/fishing/fishing_1.gif)
+   ![미끼 및 루어 장착](/img/postcover/fishing_1.gif)
    인벤토리를 열어서 낚시대에 미끼와 루어를 장착할 수 있습니다.
 
 2. 낚시 미니게임
-   ![낚시 미니게임](/img/postcover/fishing/fishing_1.gif)
+   ![낚시 미니게임](/img/postcover/fishing_1.gif)
    낚시를 하면 재미있는 미니게임을 즐길 수 있습니다.
 
 3. 물고기 판매하기
-   ![물고기 판매](/img/postcover/fishing/fishing_3.gif)
+   ![물고기 판매](/img/postcover/fishing_3.gif)
    잡은 물고기는 `/sellfish` 명령어를 통해 팔 수 있습니다.
 
 4. 보상 시스템
