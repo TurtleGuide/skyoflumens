@@ -6,7 +6,7 @@ active: "journal"
 image:
   feature: "minecraft-inspired-fishing-scenery.jpeg"
 date: "2016-08-14"
-header-img: "img/postcover/minecraft-inspired-digital-painting.gif"
+header-img: "img/postcover/minecraft-inspired-digital-painting.jpeg"
 tags: []
 categories: []
 comments: false
@@ -22,7 +22,7 @@ comments: false
    인벤토리를 열어서 낚시대에 미끼와 루어를 장착할 수 있습니다.
 
 2. 낚시 미니게임
-   ![낚시 미니게임](/img/postcover/fishing_1.gif)
+   ![낚시 미니게임](/img/postcover/fishing_2.gif)
    낚시를 하면 재미있는 미니게임을 즐길 수 있습니다.
 
 3. 물고기 판매하기
