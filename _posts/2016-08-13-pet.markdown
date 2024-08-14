@@ -6,7 +6,7 @@ active: "journal"
 image:
   feature: "pixel-art-depiction.jpeg"
 date: "2016-08-13"
-header-img: "img/postcover/twilight-in-a-minecraft-style-pet.jpeg"
+header-img: "img/postcover/pets/twilight-in-a-minecraft-style-pet.jpeg"
 tags: []
 categories: []
 comments: false
