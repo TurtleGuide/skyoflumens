@@ -39,10 +39,10 @@ comments: false
 
 새로운 광물은 다음과 같이 광석 감정 주문서를 사용하여 얻을 수 있습니다:
 
-1. 광석 발견하기
+1. 광석 감정하기(새로운 광물 1)
    ![광석 발견](/img/postcover/miner/miner_1.gif)
 
-2. 광석 감정하기
+2. 광석 감정하기(새로운 광물 2)
    ![광석 감정](/img/postcover/miner/miner_2.gif)
 
 ### 숨겨진 보물
